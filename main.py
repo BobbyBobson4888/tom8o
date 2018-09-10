@@ -1,5 +1,5 @@
 import keyboard
-import easygui
+# import easygui
 import time
 import _thread
 from playsound import playsound
