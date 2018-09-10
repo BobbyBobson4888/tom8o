@@ -11,3 +11,5 @@ Right shift + down arrow, which prints the current time remaining to the console
 Right shift + left arrow activates notification of the end of the work period.
 
 like I said I cobbled this together in an hour so it isn't the most polished thing in the world.
+
+I have yet to really test this in a real world scenario but i'm going to in like 3 hours so gimme a minute
