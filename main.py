@@ -4,9 +4,9 @@ import time
 import _thread
 from playsound import playsound
 
-work_time = 0.1 #int(easygui.integerbox(msg="How long should work periods be?", default="25"))
-sbreak_time = 0.1 #int(easygui.integerbox(msg="How long should short breaks be?", default="5"))
-lbreak_time = 0.1 #int(easygui.integerbox(msg="How long should long breaks be?", default="15"))
+work_time = 25 #int(easygui.integerbox(msg="How long should work periods be?", default="25"))
+sbreak_time = 5 #int(easygui.integerbox(msg="How long should short breaks be?", default="5"))
+lbreak_time = 15 #int(easygui.integerbox(msg="How long should long breaks be?", default="15"))
 
 mode = 0
 counter = 0
