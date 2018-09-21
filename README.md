@@ -1,5 +1,7 @@
 # Tom8o  
-This is a pomodoro timer I cobbled together in an hour.
+This is a pomodoro timer I cobbled together in an hour.  
+
+[![Generic badge](https://img.shields.io/badge/Status-Pretty%20Much%20Done-red.svg)](https://shields.io/)
 
 By default, work periods are 25 minutes, short breaks are 5 minutes, and long breaks are 15 minutes. Every third break is long.
 
